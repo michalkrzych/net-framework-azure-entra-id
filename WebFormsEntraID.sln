@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsEntraID", "WebFormsEntraID\WebFormsEntraID.csproj", "{8A9C3E5F-5D3A-4C7E-9B2E-1A8F6D4E3C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A9C3E5F-5D3A-4C7E-9B2E-1A8F6D4E3C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9C3E5F-5D3A-4C7E-9B2E-1A8F6D4E3C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9C3E5F-5D3A-4C7E-9B2E-1A8F6D4E3C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9C3E5F-5D3A-4C7E-9B2E-1A8F6D4E3C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7D8E9A-1C4F-4D6E-8A3B-5F2E7D9C1A4E}
+	EndGlobalSection
+EndGlobal
