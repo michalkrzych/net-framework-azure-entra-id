@@ -7,7 +7,6 @@ using Microsoft.Owin.Security.OpenIdConnect;
 using Owin;
 using System;
 using System.Configuration;
-using System.IdentityModel.Tokens;
 using System.Threading.Tasks;
 
 [assembly: OwinStartup(typeof(WebFormsEntraID.Startup))]
